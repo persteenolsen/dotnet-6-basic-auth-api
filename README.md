@@ -2,6 +2,10 @@
 
 .NET 6.0 - Basic HTTP Authentication API
 
+# Creates a global json
+
+dotnet new globaljson --sdk-version 6.0.320 --force
+
 # Functionality of the Web App
 
 - BASIC HTTP authentication
